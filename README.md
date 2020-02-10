@@ -1,6 +1,4 @@
 # Programming_practice_2
-19-20 wInter programming practice 2
-2019-2020程序设计实践作业报告
 计科一班 王昊恩 3018216021
 ​ 本次作业内容已全部上传至Github。
 
